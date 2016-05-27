@@ -1,0 +1,29 @@
+/* Nav Styles */
+
+.nav-container{
+  background-color: #def;
+
+}
+
+/* Info Styles */
+
+.jumbo-container{
+  
+}
+
+.info-container{
+  height: 400px;
+  background-color: #ddd;
+  padding: 0px;
+}
+
+.info-pad{
+  padding-top: 50px;
+}
+
+/* Footer Styles */
+
+footer{
+  background-color: #def;
+  padding: 0px;
+}
